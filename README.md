@@ -1,2 +1,3 @@
-# template-research-project
-Template repo for research projects
+# Template for research projects
+
+Provide a consistent file structure for projects
